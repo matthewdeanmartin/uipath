@@ -173,4 +173,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-
+/pdf_process/Critical-and-Emerging-Technologies-List-2024-Update.pdf
+/pdf_process/Critical-and-Emerging-Technologies-List-2024-Update_1.pdf
+/pdf_process/Critical-and-Emerging-Technologies-List-2024-Update_*.pdf
+/pdf_process/content.txt

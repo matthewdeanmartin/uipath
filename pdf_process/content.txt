@@ -1,0 +1,337 @@
+C RITICAL AND E MERGING T ECHNOLOGIES
+L IST U PDATE
+
+A Report by the
+FAST TRACK ACTION SUBCOMMITTEE ON CRITICAL AND
+EMERGING TECHNOLOGIES
+of the
+NATIONAL SCIENCE AND TECHNOLOGY COUNCIL
+
+February 2024
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+About the National Science and Technology Council
+The National Science and Technology Council (NSTC) is the principal means by which the Executive
+Branch coordinates science and technology policy across the diverse entities that make up the Federal
+research and development enterprise. A primary objective of the NSTC is to ensure that science and
+technology policy decisions and programs are consistent with the President's stated goals. The NSTC
+prepares research and development strategies that are coordinated across Federal agencies aimed at
+accomplishing multiple national goals. The work of the NSTC is organized under committees that
+oversee subcommittees and working groups focused on different aspects of science and technology.
+More information is available at http://www.whitehouse.gov/ostp/nstc.
+About the Office of Science and Technology Policy
+The Office of Science and Technology Policy (OSTP) was established by the National Science and
+Technology Policy, Organization, and Priorities Act of 1976 to provide the President and others within
+the Executive Office of the President with advice on the scientific, engineering, and technological
+aspects of the economy, national security, homeland security, health, foreign relations, the
+environment, and the technological recovery and use of resources, among other topics. OSTP leads
+interagency science and technology policy coordination efforts, assists the Office of Management and
+Budget with an annual review and analysis of Federal research and development in budgets, and serves
+as a source of scientific and technological analysis and judgment for the President with respect to major
+policies, plans, and programs of the Federal Government. More information is available at
+http://www.whitehouse.gov/ostp.
+About the Fast Track Action Subcommittee on Critical and Emerging
+Technologies
+The NSTC established this Fast Track Action Subcommittee in 2020 to identify critical and emerging
+technologies to inform national security-related activities. In support of this work, the Subcommittee
+coordinated across the NSTC and the National Security Council (NSC) to identify priority critical and
+emerging technology subfields, updated no less than every two years.
+About this Document
+This document identifies critical and emerging technologies.
+Copyright Information
+This document is a work of the United States Government and is in the public domain (see 17 U.S.C.
+§105). It may be distributed and copied with acknowledgment to OSTP. Published in the United States
+of America, 2024.
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+NATIONAL SCIENCE AND TECHNOLOGY COUNCIL
+Chair Executive Director
+Arati Prabhakar, Director, Office of Science Kei Koizumi, Acting Executive Director,
+and Technology Policy National Science and Technology Council,
+Principal Deputy Director for Policy, OSTP
+
+FAST TRACK ACTION SUBCOMMITTEE ON CRITICAL AND EMERGING
+TECHNOLOGIES
+
+Co-Chairs
+Hila Levy, Office of Science and Technology Policy
+Garrett Berntsen, National Security Council (through December 2023)
+Tantum (Teddy) Collins, National Security Council (from December 2023)
+
+Members
+
+Department of Agriculture
+Department of Commerce
+Department of Defense
+Department of Energy
+Department of Health and Human Services
+Department of Homeland Security
+Department of the Interior
+Department of Justice
+Department of State
+Department of Transportation
+National Aeronautics and Space
+Administration
+National Science Foundation
+National Security Agency
+National Security Council staff
+National Space Council staff
+Office of the Director of National
+Intelligence
+Office of Management and Budget
+Office of Science and Technology Policy
+
+– i –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Table of Contents
+
+Abbreviations and Acronyms ...................................................................................................................... iii
+Overview ....................................................................................................................................................... 1
+Critical and Emerging Technologies List ...................................................................................................... 2
+Critical and Emerging Technology Subfields ............................................................................................... 3
+
+– ii –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Abbreviations and Acronyms
+AI artificial intelligence
+CET critical and emerging technology(ies)
+NSTC National Science and Technology Council
+OSTP Office of Science and Technology Policy
+RF radio frequency
+
+– iii –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Overview
+Critical and emerging technologies (CETs) are a subset of advanced technologies that are potentially
+significant to U.S. national security. The 2022 National Security Strategy identifies three national security
+interests: protect the security of the American people, expand economic prosperity and opportunity,
+and realize and defend the democratic values at the heart of the American way of life.1 The NSTC
+established this Fast Track Action Subcommittee in 2020 to identify critical and emerging technologies
+to inform national security-related activities. This list identifies CETs with the potential to further these
+interests and builds on the October 2020 National Strategy for Critical and Emerging Technologies, which
+contains an initial list of priority CETs.2 This updated document expands upon that original CET list and
+the February 2022 update by identifying subfields for each CET with a focus, where possible, on core
+technologies that continue to emerge and modernize, while remaining critical to a free, open, secure,
+and prosperous world. While enabling or supporting technologies are sometimes referenced, other
+enabling capabilities, like a modernized, technically capable workforce, are excluded. Though certain
+enabling capabilities are not explicitly included, they remain critical to the promotion and protection
+of all CETs.
+Though not a strategy document, this updated CET list may inform government-wide and agency-
+specific efforts concerning U.S. technological competitiveness and national security. This list may also
+inform future efforts to prioritize across CETs and their component subfields; however, this list should
+not be interpreted as a priority list for either policy development or funding. Instead, this list should be
+used as a resource to: inform future efforts that promote U.S. technological leadership; cooperate with
+allies and partners to advance and maintain shared technological advantages; develop, design, govern,
+and use CETs that yield tangible benefits for society and are aligned with democratic values; and
+develop U.S. Government measures that respond to threats against U.S. security. Departments and
+agencies may consult this CET list when developing, for example, initiatives to research and develop
+technologies that support national security missions, compete for international talent, and protect
+sensitive technology from misappropriation and misuse.
+To generate this updated CET list, the Office of Science and Technology Policy (OSTP) facilitated an
+extensive interagency deliberative process through the National Science and Technology Council
+(NSTC) and in coordination with the National Security Council (NSC). The responsible NSTC
+subcommittee included subject matter experts from 18 departments, agencies, and offices in the
+Executive Office of the President, who identified CET subfields that their home organizations determined
+may be critical to U.S. national security. As such, this updated CET list, which was coordinated through
+both the NSTC and the NSC, reflects an interagency consensus on updates to the 2022 CETs.
+
+1  https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-
+10.2022.pdf
+2  https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/10/National-Strategy-for-CET.pdf
+
+– 1 –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Critical and Emerging Technologies List
+The following critical and emerging technology areas are of particular importance to the national
+security of the United States:
+• Advanced Computing
+• Advanced Engineering Materials
+• Advanced Gas Turbine Engine Technologies
+• Advanced and Networked Sensing and Signature Management
+• Advanced Manufacturing
+• Artificial Intelligence
+• Biotechnologies
+• Clean Energy Generation and Storage
+• Data Privacy, Data Security, and Cybersecurity Technologies
+• Directed Energy
+• Highly Automated, Autonomous, and Uncrewed Systems (UxS), and Robotics
+• Human-Machine Interfaces
+• Hypersonics
+• Integrated Communication and Networking Technologies
+• Positioning, Navigation, and Timing (PNT) Technologies
+• Quantum Information and Enabling Technologies
+• Semiconductors and Microelectronics
+• Space Technologies and Systems
+
+– 2 –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Critical and Emerging Technology Subfields
+Each identified CET area includes a set of key subfields that describe its scope in more detail.
+
+Advanced Computing
+• Advanced supercomputing, including for AI applications
+• Edge computing and devices
+• Advanced cloud services
+• High-performance data storage and data centers
+• Advanced computing architectures
+• Advanced modeling and simulation
+• Data processing and analysis techniques
+• Spatial computing
+Advanced Engineering Materials
+• Materials by design and material genomics
+• Materials with novel properties to include substantial improvements to existing properties
+• Novel and emerging techniques for material property characterization and lifecycle assessment
+Advanced Gas Turbine Engine Technologies
+• Aerospace, maritime, and industrial development and production technologies
+• Full-authority digital engine control, hot-section manufacturing, and associated technologies
+Advanced and Networked Sensing and Signature Management
+• Payloads, sensors, and instruments
+• Sensor processing and data fusion
+• Adaptive optics
+• Remote sensing of the Earth
+• Geophysical sensing
+• Signature management
+• Detection and characterization of pathogens and of chemical, biological, radiological and
+nuclear weapons and materials
+• Transportation-sector sensing
+• Security-sector sensing
+• Health-sector sensing
+• Energy-sector sensing
+• Manufacturing-sector sensing
+• Building-sector sensing
+• Environmental-sector sensing
+Advanced Manufacturing
+• Advanced additive manufacturing
+• Advanced manufacturing technologies and techniques including those supporting clean,
+sustainable, and smart manufacturing, nanomanufacturing, lightweight metal manufacturing,
+and product and material recovery
+
+– 3 –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Artificial Intelligence (AI)
+• Machine learning
+• Deep learning
+• Reinforcement learning
+• Sensory perception and recognition
+• AI assurance and assessment techniques
+• Foundation models
+• Generative AI systems, multimodal and large language models
+• Synthetic data approaches for training, tuning, and testing
+• Planning, reasoning, and decision making
+• Technologies for improving AI safety, trust, security, and responsible use
+Biotechnologies
+• Novel synthetic biology including nucleic acid, genome, epigenome, and protein synthesis and
+engineering, including design tools
+• Multi-omics and other biometrology, bioinformatics, computational biology, predictive
+modeling, and analytical tools for functional phenotypes
+• Engineering of sub-cellular, multicellular, and multi-scale systems
+• Cell-free systems and technologies
+• Engineering of viral and viral delivery systems
+• Biotic/abiotic interfaces
+• Biomanufacturing and bioprocessing technologies
+Clean Energy Generation and Storage
+• Renewable generation
+• Renewable and sustainable chemistries, fuels, and feedstocks
+• Nuclear energy systems
+• Fusion energy
+• Energy storage
+• Electric and hybrid engines
+• Batteries
+• Grid integration technologies
+• Energy-efficiency technologies
+• Carbon management technologies
+Data Privacy, Data Security, and Cybersecurity Technologies
+• Distributed ledger technologies
+• Digital assets
+• Digital payment technologies
+• Digital identity technologies, biometrics, and associated infrastructure
+• Communications and network security
+• Privacy-enhancing technologies
+• Technologies for data fusion and improving data interoperability, privacy, and security
+• Distributed confidential computing
+• Computing supply chain security
+• Security and privacy technologies in augmented reality/virtual reality
+– 4 –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Directed Energy
+• Lasers
+• High-power microwaves
+• Particle beams
+Highly Automated, Autonomous, and Uncrewed Systems (UxS), and Robotics
+• Surface
+• Air
+• Maritime
+• Space
+• Supporting digital infrastructure, including High Definition (HD) maps
+• Autonomous command and control
+Human-Machine Interfaces
+• Augmented reality
+• Virtual reality
+• Human-machine teaming
+• Neurotechnologies
+Hypersonics
+• Propulsion
+• Aerodynamics and control
+• Materials, structures, and manufacturing
+• Detection, tracking, characterization, and defense
+• Testing
+Integrated Communication and Networking Technologies
+• Radio-frequency (RF) and mixed-signal circuits, antennas, filters, and components
+• Spectrum management and sensing technologies
+• Future generation wireless networks
+• Optical links and fiber technologies
+• Terrestrial/undersea cables
+• Satellite-based and stratospheric communications
+• Delay-tolerant networking
+• Mesh networks/infrastructure independent communication technologies
+• Software-defined networking and radios
+• Modern data exchange techniques
+• Adaptive network controls
+• Resilient and adaptive waveforms
+Positioning, Navigation, and Timing (PNT) Technologies
+• Diversified PNT-enabling technologies for users and systems in airborne, space-based,
+terrestrial, subterranean, and underwater settings
+• Interference, jamming, and spoofing detection technologies, algorithms, analytics, and
+networked monitoring systems
+• Disruption/denial-resisting and hardening technologies
+
+– 5 –
+CRITICAL AND EMERGING TECHNOLOGIES LIST UPDATE
+
+Quantum Information and Enabling Technologies
+• Quantum computing
+• Materials, isotopes, and fabrication techniques for quantum devices
+• Quantum sensing
+• Quantum communications and networking
+• Supporting systems
+Semiconductors and Microelectronics
+• Design and electronic design automation tools
+• Manufacturing process technologies and manufacturing equipment
+• Beyond complementary metal-oxide-semiconductor (CMOS) technology
+• Heterogeneous integration and advanced packaging
+• Specialized/tailored hardware components for artificial intelligence, natural and hostile
+radiation environments, RF and optical components, high-power devices, and other critical
+applications
+• Novel materials for advanced microelectronics
+• Microelectromechanical systems (MEMS) and Nanoelectromechanical systems (NEMS)
+• Novel architectures for non-Von Neumann computing
+Space Technologies and Systems
+• In-space servicing, assembly, and manufacturing as well as enabling technologies
+• Technology enablers for cost-effective on-demand, and reusable space launch systems
+• Technologies that enable access to and use of cislunar space and/or novel orbits
+• Sensors and data analysis tools for space-based observations
+• Space propulsion
+• Advanced space vehicle power generation
+• Novel space vehicle thermal management
+• Crewed spaceflight enablers
+• Resilient and path-diverse space communication systems, networks, and ground stations
+• Space launch, range, and safety technologies
+
+– 6 –
